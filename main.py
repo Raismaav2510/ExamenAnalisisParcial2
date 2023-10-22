@@ -1,13 +1,14 @@
 import AnalisisConahcyt
 import AnalisisPDF
 import AnalisisTiendas
+import AnalisisUniversidades
 
 while True:
     print("Menú de Opciones:")
     print("1. Analisis CONACYTH")
-    print("2. Opción 2")
-    print("3. Analisis PDF")
-    print("4. Salir")
+    print("2. Analisis de Universidades")
+    print("3. Analisis de archivos PDF")
+    print("4. Analisis de tiendas")
     print("5. Salir")
     seleccion = input("Elige una opción: ")
 
@@ -15,7 +16,7 @@ while True:
         AnalisisConahcyt.analisis_conahcyt()
 
     elif seleccion == '2':
-        print("Has seleccionado la Opción 2")
+        AnalisisUniversidades.analisis_universidades()
 
     elif seleccion == '3':
         AnalisisPDF.analisis_pdf()
