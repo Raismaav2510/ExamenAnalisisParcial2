@@ -1,0 +1,393 @@
+
+Oferta por coordinaciones y sedes
+
+Coordinación de Física, matemáticas y ciencias de datos
+	CICESE
+		Maestría en Administración Integral del Ambiente (programa interinstitucional)
+		Maestría en Ciencias en Acuicultura
+		Maestría en Ciencias en Ciencias de la Computación
+		Maestría en Ciencias en Ciencias de la Tierra
+		Maestría en Ciencias en Ciencias de la Vida
+		Maestría en Ciencias en Ecología Marina
+		Maestría en Ciencias en Electrónica y Telecomunicaciones
+		Maestría en Ciencias en Oceanografía Física
+		Maestría en Ciencias en Óptica
+		Maestría en Nanociencias
+		Maestría en Tecnologías Avanzadas e Integradas
+		Maestría en Administración Integral del Ambiente (programa interinstitucional)
+		Maestría en Ciencias en Acuicultura
+		Maestría en Ciencias en Ciencias de la Computación
+		Maestría en Ciencias en Ciencias de la Tierra
+		Maestría en Ciencias en Ciencias de la Vida
+		Maestría en Ciencias en Ecología Marina
+		Maestría en Ciencias en Electrónica y Telecomunicaciones
+		Maestría en Ciencias en Oceanografía Física
+		Maestría en Ciencias en Óptica
+		Maestría en Nanociencias
+		Maestría en Tecnologías Avanzadas e Integradas
+		Doctorado en Ciencias en Acuicultura
+		Doctorado en Ciencias en Ciencias de la Computación
+		Doctorado en Ciencias en Ciencias de la Tierra
+		Doctorado en Ciencias en Ciencias de la Vida
+		Doctorado en Ciencias en Ciencias en Óptica
+		Doctorado en Ciencias en Ecología Marina
+		Doctorado en Ciencias en Electrónica y Telecomunicaciones
+		Doctorado en Ciencias en Oceanografía Física
+		Doctorado en Nanociencias
+		Doctorado en Ciencias en Acuicultura
+		Doctorado en Ciencias en Ciencias de la Computación
+		Doctorado en Ciencias en Ciencias de la Tierra
+		Doctorado en Ciencias en Ciencias de la Vida
+		Doctorado en Ciencias en Ciencias en Óptica
+		Doctorado en Ciencias en Ecología Marina
+		Doctorado en Ciencias en Electrónica y Telecomunicaciones
+		Doctorado en Ciencias en Oceanografía Física
+		Doctorado en Nanociencias
+
+	INAOE
+		Ciencias y tecnologías biomédicas
+		Maestría en Astrofísica
+		Maestría en Ciencias Computacionales
+		Maestría en Ciencias y Tecnología del Espacio
+		Maestría en Electrónica
+		Maestría en Óptica
+		Doctorado en Astrofísica
+		Doctorado en Ciencias Computacionales
+		Doctorado en Electrónica
+		Doctorado en Óptica
+
+	CIMAT
+		Licenciatura en Computación
+		Licenciatura en Computación Matemática
+		Licenciatura en Matemáticas
+		Licenciatura en Matemáticas
+		Especialidad en métodos estadísticos
+		Especialidad en Métodos Estadísticos
+		Maestría en Ciencias con especialidad en Ciencias de la Computación:
+		Maestría en Ciencias con especialidad en Matemáticas Aplicadas
+		Maestría en Ciencias con especialidad en Matemáticas Básicas
+		Maestría en Ciencias con especialidad en Matemáticas Básicas
+		Maestría en Ciencias con especialidad en Probabilidad y Estadística
+		Maestría en Cómputo Estadístico
+		Maestría en Ingeniería de Software (MIS)
+		Maestría en Ingeniería de Software (MIS)
+		Maestría en Modelación y Optimización de Procesos
+		Doctorado en Ciencias de la Computación
+		Doctorado en Ciencias en Matemáticas Básicas
+		Doctorado en Matemáticas Aplicadas
+		Doctorado en Probabilidad y Estadística
+
+	IPICYT
+		Maestría en Ciencias Ambientales
+		Maestría en Ciencias en Biología Molecular
+		Maestría en Control y Sistemas Dinámicos
+		Maestría en Geociencias Aplicadas
+		Maestría en Nanociencias y Materiales
+		Maestría en Ciencias Ambientales
+		Maestría en Ciencias en Biología Molecular
+		Maestría en Control y Sistemas Dinámicos
+		Maestría en Geociencias Aplicadas
+		Maestría en Nanociencias y Materiales
+		Doctorado en Ciencias Ambientales
+		Doctorado en Ciencias en Biología Molecular
+		Doctorado en Control y Sistemas Dinámicos
+		Doctorado en Geociencias Aplicadas
+		Doctorado en Nanociencias y Materiales
+		Doctorado en Ciencias Ambientales
+		Doctorado en Ciencias en Biología Molecular
+		Doctorado en Control y Sistemas Dinámicos
+		Doctorado en Geociencias Aplicadas
+		Doctorado en Nanociencias y Materiales
+
+	INFOTEC
+		Maestría en Ciencias en Ciencia de Datos (MCCD)
+		Maestría en Derecho de las Tecnologías de Información y Comunicación (MDTIC)
+		Maestría en Dirección Estratégica de las Tecnologías de Información y Comunicación (MDETIC)
+		Maestría en Gestión de Innovación de las Tecnologías de Información y Comunicación (MGITIC)
+		Maestría en Sistemas Embebidos (MSE)
+		Doctorado en Ciencias en Ciencia de Datos (DCCD)
+
+	CIO
+		Maestría en Ciencias (Óptica)
+		Maestría en Optomecatrónica
+		Maestría Interinstitucional en Ciencia y Tecnología (PICYT)
+		Doctorado en Ciencias (Óptica)
+		Doctorado Interinstitucional en Ciencia y Tecnología (PYCIT)
+
+Coordinación de Política pública y desarrollo regional
+	CIDE
+		Licenciatura en Ciencia Política y Relaciones Internacionales
+		Licenciatura en Derecho
+		Licenciatura en Economía
+		Licenciatura en Políticas Públicas
+		Maestría en Administración y Políticas Públicas
+		Maestría en Ciencia Política
+		Maestría en Economía
+		Maestría en Economía Ambiental
+		Maestría en Historia Internacional
+		Maestría en Métodos para el Análisis de Políticas Públicas
+		Maestría en Periodismo sobre Políticas Públicas
+		Doctorado en Ciencia Política
+		Doctorado en Historia Aplicada
+		Doctorado en Políticas Públicas
+
+	CIESAS
+		Maestría en Antropología Social (Occidente Sureste)
+		Maestría en Antropología Social (unidad Golfo)
+		Maestría en Historia
+		Maestría en Lingüística Indoamericana
+		Maestría en Antropología Social (Occidente Sureste)
+		Maestría en Antropología Social (unidad Golfo)
+		Maestría en Historia
+		Maestría en Lingüística Indoamericana
+		Doctorado en Antropología
+		Doctorado en Antropología Social
+		Doctorado en Ciencias Sociales
+		Doctorado en Historia
+		Doctorado en Lingüística Indoamericana
+		Maestría en Antropología Social (unidad México D.F.)
+		Maestría en Antropología Social (unidad Pacífico sur)
+		Doctorado en Antropología
+		Doctorado en Antropología Social
+		Doctorado en Ciencias Sociales
+		Doctorado en Historia
+		Doctorado en Lingüística Indoamericana
+		Maestría en Antropología Social (unidad México D.F.)
+		Maestría en Antropología Social (unidad Pacífico sur)
+
+	EL COLEF
+		Especialidad en Estudios de la Frontera México Estados Unidos
+		Especialidad en Migración Internacional
+		Maestría en Acción Pública y Desarrollo Social
+		Maestría en Economía Aplicada
+		Maestría en Estudios Culturales
+		Maestría en Estudios de Migración Internacional
+		Maestría en Estudios de Población
+		Maestría en Gestión Integral del Agua
+		Doctorado en Ciencias Sociales en el área de Estudios Regionales
+		Doctorado en Estudios Culturales
+		Doctorado en Estudios de Migración
+		Maestría en Administración Integral del Ambiente (programa interinstitucional)
+		Maestría en Desarrollo Regional
+
+	CentroGeo
+		Especialidad en Geomática
+		Maestría en Ciencias de Información Geoespacial
+		Maestría en Geointeligencia Computacional
+		Maestría en Planeación Espacial
+		Doctorado en Ciencias de Información Geoespacial
+
+	FLACSO
+		Especialidad en Política y Gestión Educativa
+		Especialidad en Política y Gestión Energética y Medioambiental
+		Maestría en Ciencias Sociales
+		Maestría en Derechos Humanos y Democracia
+		Maestría en Gobierno y Asuntos Públicos
+		Maestría en Población y Desarrollo
+		Maestría en Políticas Públicas Comparadas
+		Maestría en Políticas Públicas y Género
+		Doctorado de Investigación en Ciencias Sociales
+
+Coordinación de Historia y antropología social
+	Instituto Mora
+		Licenciatura en Historia
+		Maestría en Cooperación Internacional para el Desarrollo
+		Maestría en Estudios Regionales
+		Maestría en Historia Moderna y Contemporánea
+		Maestría en Sociología Política
+		Doctorado en Estudios del Desarrollo. Problemas y Perspectivas Latinoamericanas
+		Doctorado en Historia Moderna y Contemporánea
+
+	COLMICH
+		Maestría en Antropología
+		Maestría en Arqueología
+		Maestría en Ciencias Sociales especialidad Estudios Rurales
+		Maestría en Geografía Humana
+		Doctorado en Antropología Social
+		Doctorado en Ciencias Humanas especialidad en Estudio de las Tradiciones
+		Doctorado en Ciencias Sociales
+		Doctorado en Ciencias Sociales especialidad Estudios Rurales
+		Doctorado en Historia
+
+	COLSAN
+		Licenciatura en Relaciones Internacionales
+		Maestría en Antropología Social
+		Maestría en Asuntos Políticos y Políticas Públicas
+		Maestría en Gestión Sustentable del Agua
+		Maestría en Historia
+		Maestría en Literatura Hispanoamericana
+		Doctorado en Ciencias Sociales
+		Doctorado en Estudios Antropológicos
+		Doctorado en Historia
+		Doctorado en Literatura Hispánica
+
+	CIESAS
+		Maestría en Antropología Social (Occidente Sureste)
+		Maestría en Antropología Social (unidad Golfo)
+		Maestría en Historia
+		Maestría en Lingüística Indoamericana
+		Maestría en Antropología Social (Occidente Sureste)
+		Maestría en Antropología Social (unidad Golfo)
+		Maestría en Historia
+		Maestría en Lingüística Indoamericana
+		Doctorado en Antropología
+		Doctorado en Antropología Social
+		Doctorado en Ciencias Sociales
+		Doctorado en Historia
+		Doctorado en Lingüística Indoamericana
+		Maestría en Antropología Social (unidad México D.F.)
+		Maestría en Antropología Social (unidad Pacífico sur)
+		Doctorado en Antropología
+		Doctorado en Antropología Social
+		Doctorado en Ciencias Sociales
+		Doctorado en Historia
+		Doctorado en Lingüística Indoamericana
+		Maestría en Antropología Social (unidad México D.F.)
+		Maestría en Antropología Social (unidad Pacífico sur)
+
+Coordinación de Materiales, manufactura avanzada y procesos industriales
+	CIDETEQ
+		Maestría en Ciencia y Tecnología con especialidad en Ingeniería Ambiental
+		Maestría en Electroquímica
+		Doctorado en Ciencia y Tecnología con especialidad en Ingeniería Ambiental
+		Doctorado en Electroquímica
+
+	CIMAV
+		Maestría en Ciencia de Materiales
+		Maestría en Ciencia y Tecnología Ambiental
+		Doctorado dual en Nanotecnología
+		Doctorado en Ciencia y Tecnología Ambiental
+
+	CIQA
+		Especialidad en Química Aplicada
+		Maestría en Plásticos en la Agricultura
+		Maestría en Tecnología de Polímeros
+		Doctorado en Tecnología de Polímeros
+
+	COMIMSA
+		Especialidad en Tecnología de la Soldadura Industrial
+		Maestría en Tecnología de la Soldadura Industrial
+		Maestría Interinstitucional en Ciencia y Tecnología (PICYT)
+		Doctorado Interinstitucional en Ciencia y Tecnología (PICYT)
+
+	CIATEC
+		Maestría en Ingeniería Ambiental
+		Maestría en Ingeniería Industrial y de Manufactura
+		Doctorado en Ingeniería Ambiental
+		Doctorado en Ingeniería Industrial y de Manufactura
+
+	CIATEQ
+		Especialidad en Diseño y Desarrollo de Productos Plásticos
+		Maestría en Dirección y Gestión de Proyectos de Ingeniería
+		Maestría en Manufactura Avanzada
+		Maestría en Sistemas Inteligentes Multimedia
+		Doctorado en Manufactura Avanzada
+
+	CIDESI
+		Especialidad de Tecnólogo en Mecatrónica
+		Maestría Germano Mexicana en Mecatrónica
+		Maestría Interinstitucional en Ciencia y Tecnología (PICYT)
+		Doctorado Interinstitucional en Ciencia y Tecnología (PICYT)
+
+Coordinación de Medio ambiente, salud y alimentación
+	CIAD
+		Maestría en Ciencias
+		Maestría en Desarrollo Regional
+		Doctorado en Ciencias
+		Doctorado en Desarrollo Regional
+
+	CICESE
+		Maestría en Administración Integral del Ambiente (programa interinstitucional)
+		Maestría en Ciencias en Acuicultura
+		Maestría en Ciencias en Ciencias de la Computación
+		Maestría en Ciencias en Ciencias de la Tierra
+		Maestría en Ciencias en Ciencias de la Vida
+		Maestría en Ciencias en Ecología Marina
+		Maestría en Ciencias en Electrónica y Telecomunicaciones
+		Maestría en Ciencias en Oceanografía Física
+		Maestría en Ciencias en Óptica
+		Maestría en Nanociencias
+		Maestría en Tecnologías Avanzadas e Integradas
+		Maestría en Administración Integral del Ambiente (programa interinstitucional)
+		Maestría en Ciencias en Acuicultura
+		Maestría en Ciencias en Ciencias de la Computación
+		Maestría en Ciencias en Ciencias de la Tierra
+		Maestría en Ciencias en Ciencias de la Vida
+		Maestría en Ciencias en Ecología Marina
+		Maestría en Ciencias en Electrónica y Telecomunicaciones
+		Maestría en Ciencias en Oceanografía Física
+		Maestría en Ciencias en Óptica
+		Maestría en Nanociencias
+		Maestría en Tecnologías Avanzadas e Integradas
+		Doctorado en Ciencias en Acuicultura
+		Doctorado en Ciencias en Ciencias de la Computación
+		Doctorado en Ciencias en Ciencias de la Tierra
+		Doctorado en Ciencias en Ciencias de la Vida
+		Doctorado en Ciencias en Ciencias en Óptica
+		Doctorado en Ciencias en Ecología Marina
+		Doctorado en Ciencias en Electrónica y Telecomunicaciones
+		Doctorado en Ciencias en Oceanografía Física
+		Doctorado en Nanociencias
+		Doctorado en Ciencias en Acuicultura
+		Doctorado en Ciencias en Ciencias de la Computación
+		Doctorado en Ciencias en Ciencias de la Tierra
+		Doctorado en Ciencias en Ciencias de la Vida
+		Doctorado en Ciencias en Ciencias en Óptica
+		Doctorado en Ciencias en Ecología Marina
+		Doctorado en Ciencias en Electrónica y Telecomunicaciones
+		Doctorado en Ciencias en Oceanografía Física
+		Doctorado en Nanociencias
+
+	ECOSUR
+		Maestría en Ciencias en Recursos Naturales y Desarrollo Rural
+		Maestría en Ecología Internacional
+		Doctorado en Ciencias en Ecología y Desarrollo Sustentable
+
+	CICY
+		Maestría en Ciencias (Ciencias biológicas)
+		Maestría en Ciencias del Agua
+		Maestría en Ciencias en Energía Renovable
+		Maestría en Materiales Poliméricos
+		Doctorado en Ciencias Biológicas
+		Doctorado en Ciencias en Energía Renovable
+		Doctorado en Materiales Poliméricos
+
+	CIATEJ
+		Maestría en Ciencias de la Floricultura
+		Maestría en Ciencias en Innovación Biotecnológica
+		Maestría en Investigación Clínica
+		Maestría Interinstitucional en Ciencia y Tecnología (PICYT)
+		Doctorado en Ciencias en Innovación Biotecnológica
+		Doctorado Interinstitucional en Ciencia y Tecnología (PICYT)
+
+	IPICYT
+		Maestría en Ciencias Ambientales
+		Maestría en Ciencias en Biología Molecular
+		Maestría en Control y Sistemas Dinámicos
+		Maestría en Geociencias Aplicadas
+		Maestría en Nanociencias y Materiales
+		Maestría en Ciencias Ambientales
+		Maestría en Ciencias en Biología Molecular
+		Maestría en Control y Sistemas Dinámicos
+		Maestría en Geociencias Aplicadas
+		Maestría en Nanociencias y Materiales
+		Doctorado en Ciencias Ambientales
+		Doctorado en Ciencias en Biología Molecular
+		Doctorado en Control y Sistemas Dinámicos
+		Doctorado en Geociencias Aplicadas
+		Doctorado en Nanociencias y Materiales
+		Doctorado en Ciencias Ambientales
+		Doctorado en Ciencias en Biología Molecular
+		Doctorado en Control y Sistemas Dinámicos
+		Doctorado en Geociencias Aplicadas
+		Doctorado en Nanociencias y Materiales
+
+	CIBNOR
+		Maestría en Ciencias en el Uso, Manejo y Preservación de los Recursos Naturales
+		Doctorado en Ciencias en Bioeconomía Pesquera y Acuícola (programa interinstitucional)
+		Doctorado en Ciencias en el Uso, Manejo y Preservación de los Recursos Naturales
+
+	INECOL
+		Maestría en Ciencias
+		Doctorado en Ciencias
+
