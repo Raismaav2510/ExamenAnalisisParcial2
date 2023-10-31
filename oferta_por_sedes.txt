@@ -2,20 +2,48 @@
 Oferta por coordinaciones y sedes
 
 Coordinación de Física, matemáticas y ciencias de datos
-	INFOTEC
-		Maestría en Ciencias en Ciencia de Datos (MCCD)
-		Maestría en Derecho de las Tecnologías de Información y Comunicación (MDTIC)
-		Maestría en Dirección Estratégica de las Tecnologías de Información y Comunicación (MDETIC)
-		Maestría en Gestión de Innovación de las Tecnologías de Información y Comunicación (MGITIC)
-		Maestría en Sistemas Embebidos (MSE)
-		Doctorado en Ciencias en Ciencia de Datos (DCCD)
+	CIMAT
+		Licenciatura en Computación
+		Licenciatura en Computación Matemática
+		Licenciatura en Matemáticas
+		Licenciatura en Matemáticas
+		Especialidad en métodos estadísticos
+		Especialidad en Métodos Estadísticos
+		Maestría en Ciencias con especialidad en Ciencias de la Computación:
+		Maestría en Ciencias con especialidad en Matemáticas Aplicadas
+		Maestría en Ciencias con especialidad en Matemáticas Básicas
+		Maestría en Ciencias con especialidad en Matemáticas Básicas
+		Maestría en Ciencias con especialidad en Probabilidad y Estadística
+		Maestría en Cómputo Estadístico
+		Maestría en Ingeniería de Software (MIS)
+		Maestría en Ingeniería de Software (MIS)
+		Maestría en Modelación y Optimización de Procesos
+		Doctorado en Ciencias de la Computación
+		Doctorado en Ciencias en Matemáticas Básicas
+		Doctorado en Matemáticas Aplicadas
+		Doctorado en Probabilidad y Estadística
 
-	CIO
-		Maestría en Ciencias (Óptica)
-		Maestría en Optomecatrónica
-		Maestría Interinstitucional en Ciencia y Tecnología (PICYT)
-		Doctorado en Ciencias (Óptica)
-		Doctorado Interinstitucional en Ciencia y Tecnología (PYCIT)
+	IPICYT
+		Maestría en Ciencias Ambientales
+		Maestría en Ciencias en Biología Molecular
+		Maestría en Control y Sistemas Dinámicos
+		Maestría en Geociencias Aplicadas
+		Maestría en Nanociencias y Materiales
+		Maestría en Ciencias Ambientales
+		Maestría en Ciencias en Biología Molecular
+		Maestría en Control y Sistemas Dinámicos
+		Maestría en Geociencias Aplicadas
+		Maestría en Nanociencias y Materiales
+		Doctorado en Ciencias Ambientales
+		Doctorado en Ciencias en Biología Molecular
+		Doctorado en Control y Sistemas Dinámicos
+		Doctorado en Geociencias Aplicadas
+		Doctorado en Nanociencias y Materiales
+		Doctorado en Ciencias Ambientales
+		Doctorado en Ciencias en Biología Molecular
+		Doctorado en Control y Sistemas Dinámicos
+		Doctorado en Geociencias Aplicadas
+		Doctorado en Nanociencias y Materiales
 
 	CICESE
 		Maestría en Administración Integral del Ambiente (programa interinstitucional)
@@ -59,48 +87,20 @@ Coordinación de Física, matemáticas y ciencias de datos
 		Doctorado en Ciencias en Oceanografía Física
 		Doctorado en Nanociencias
 
-	IPICYT
-		Maestría en Ciencias Ambientales
-		Maestría en Ciencias en Biología Molecular
-		Maestría en Control y Sistemas Dinámicos
-		Maestría en Geociencias Aplicadas
-		Maestría en Nanociencias y Materiales
-		Maestría en Ciencias Ambientales
-		Maestría en Ciencias en Biología Molecular
-		Maestría en Control y Sistemas Dinámicos
-		Maestría en Geociencias Aplicadas
-		Maestría en Nanociencias y Materiales
-		Doctorado en Ciencias Ambientales
-		Doctorado en Ciencias en Biología Molecular
-		Doctorado en Control y Sistemas Dinámicos
-		Doctorado en Geociencias Aplicadas
-		Doctorado en Nanociencias y Materiales
-		Doctorado en Ciencias Ambientales
-		Doctorado en Ciencias en Biología Molecular
-		Doctorado en Control y Sistemas Dinámicos
-		Doctorado en Geociencias Aplicadas
-		Doctorado en Nanociencias y Materiales
+	CIO
+		Maestría en Ciencias (Óptica)
+		Maestría en Optomecatrónica
+		Maestría Interinstitucional en Ciencia y Tecnología (PICYT)
+		Doctorado en Ciencias (Óptica)
+		Doctorado Interinstitucional en Ciencia y Tecnología (PYCIT)
 
-	CIMAT
-		Licenciatura en Computación
-		Licenciatura en Computación Matemática
-		Licenciatura en Matemáticas
-		Licenciatura en Matemáticas
-		Especialidad en métodos estadísticos
-		Especialidad en Métodos Estadísticos
-		Maestría en Ciencias con especialidad en Ciencias de la Computación:
-		Maestría en Ciencias con especialidad en Matemáticas Aplicadas
-		Maestría en Ciencias con especialidad en Matemáticas Básicas
-		Maestría en Ciencias con especialidad en Matemáticas Básicas
-		Maestría en Ciencias con especialidad en Probabilidad y Estadística
-		Maestría en Cómputo Estadístico
-		Maestría en Ingeniería de Software (MIS)
-		Maestría en Ingeniería de Software (MIS)
-		Maestría en Modelación y Optimización de Procesos
-		Doctorado en Ciencias de la Computación
-		Doctorado en Ciencias en Matemáticas Básicas
-		Doctorado en Matemáticas Aplicadas
-		Doctorado en Probabilidad y Estadística
+	INFOTEC
+		Maestría en Ciencias en Ciencia de Datos (MCCD)
+		Maestría en Derecho de las Tecnologías de Información y Comunicación (MDTIC)
+		Maestría en Dirección Estratégica de las Tecnologías de Información y Comunicación (MDETIC)
+		Maestría en Gestión de Innovación de las Tecnologías de Información y Comunicación (MGITIC)
+		Maestría en Sistemas Embebidos (MSE)
+		Doctorado en Ciencias en Ciencia de Datos (DCCD)
 
 	INAOE
 		Ciencias y tecnologías biomédicas
@@ -115,23 +115,20 @@ Coordinación de Física, matemáticas y ciencias de datos
 		Doctorado en Óptica
 
 Coordinación de Política pública y desarrollo regional
-	CentroGeo
-		Especialidad en Geomática
-		Maestría en Ciencias de Información Geoespacial
-		Maestría en Geointeligencia Computacional
-		Maestría en Planeación Espacial
-		Doctorado en Ciencias de Información Geoespacial
-
-	FLACSO
-		Especialidad en Política y Gestión Educativa
-		Especialidad en Política y Gestión Energética y Medioambiental
-		Maestría en Ciencias Sociales
-		Maestría en Derechos Humanos y Democracia
-		Maestría en Gobierno y Asuntos Públicos
-		Maestría en Población y Desarrollo
-		Maestría en Políticas Públicas Comparadas
-		Maestría en Políticas Públicas y Género
-		Doctorado de Investigación en Ciencias Sociales
+	EL COLEF
+		Especialidad en Estudios de la Frontera México Estados Unidos
+		Especialidad en Migración Internacional
+		Maestría en Acción Pública y Desarrollo Social
+		Maestría en Economía Aplicada
+		Maestría en Estudios Culturales
+		Maestría en Estudios de Migración Internacional
+		Maestría en Estudios de Población
+		Maestría en Gestión Integral del Agua
+		Doctorado en Ciencias Sociales en el área de Estudios Regionales
+		Doctorado en Estudios Culturales
+		Doctorado en Estudios de Migración
+		Maestría en Administración Integral del Ambiente (programa interinstitucional)
+		Maestría en Desarrollo Regional
 
 	CIDE
 		Licenciatura en Ciencia Política y Relaciones Internacionales
@@ -149,20 +146,12 @@ Coordinación de Política pública y desarrollo regional
 		Doctorado en Historia Aplicada
 		Doctorado en Políticas Públicas
 
-	EL COLEF
-		Especialidad en Estudios de la Frontera México Estados Unidos
-		Especialidad en Migración Internacional
-		Maestría en Acción Pública y Desarrollo Social
-		Maestría en Economía Aplicada
-		Maestría en Estudios Culturales
-		Maestría en Estudios de Migración Internacional
-		Maestría en Estudios de Población
-		Maestría en Gestión Integral del Agua
-		Doctorado en Ciencias Sociales en el área de Estudios Regionales
-		Doctorado en Estudios Culturales
-		Doctorado en Estudios de Migración
-		Maestría en Administración Integral del Ambiente (programa interinstitucional)
-		Maestría en Desarrollo Regional
+	CentroGeo
+		Especialidad en Geomática
+		Maestría en Ciencias de Información Geoespacial
+		Maestría en Geointeligencia Computacional
+		Maestría en Planeación Espacial
+		Doctorado en Ciencias de Información Geoespacial
 
 	CIESAS
 		Maestría en Antropología Social (Occidente Sureste)
@@ -188,16 +177,18 @@ Coordinación de Política pública y desarrollo regional
 		Maestría en Antropología Social (unidad México D.F.)
 		Maestría en Antropología Social (unidad Pacífico sur)
 
-Coordinación de Historia y antropología social
-	Instituto Mora
-		Licenciatura en Historia
-		Maestría en Cooperación Internacional para el Desarrollo
-		Maestría en Estudios Regionales
-		Maestría en Historia Moderna y Contemporánea
-		Maestría en Sociología Política
-		Doctorado en Estudios del Desarrollo. Problemas y Perspectivas Latinoamericanas
-		Doctorado en Historia Moderna y Contemporánea
+	FLACSO
+		Especialidad en Política y Gestión Educativa
+		Especialidad en Política y Gestión Energética y Medioambiental
+		Maestría en Ciencias Sociales
+		Maestría en Derechos Humanos y Democracia
+		Maestría en Gobierno y Asuntos Públicos
+		Maestría en Población y Desarrollo
+		Maestría en Políticas Públicas Comparadas
+		Maestría en Políticas Públicas y Género
+		Doctorado de Investigación en Ciencias Sociales
 
+Coordinación de Historia y antropología social
 	COLMICH
 		Maestría en Antropología
 		Maestría en Arqueología
@@ -208,6 +199,15 @@ Coordinación de Historia y antropología social
 		Doctorado en Ciencias Sociales
 		Doctorado en Ciencias Sociales especialidad Estudios Rurales
 		Doctorado en Historia
+
+	Instituto Mora
+		Licenciatura en Historia
+		Maestría en Cooperación Internacional para el Desarrollo
+		Maestría en Estudios Regionales
+		Maestría en Historia Moderna y Contemporánea
+		Maestría en Sociología Política
+		Doctorado en Estudios del Desarrollo. Problemas y Perspectivas Latinoamericanas
+		Doctorado en Historia Moderna y Contemporánea
 
 	CIESAS
 		Maestría en Antropología Social (Occidente Sureste)
@@ -246,11 +246,11 @@ Coordinación de Historia y antropología social
 		Doctorado en Literatura Hispánica
 
 Coordinación de Materiales, manufactura avanzada y procesos industriales
-	COMIMSA
-		Especialidad en Tecnología de la Soldadura Industrial
-		Maestría en Tecnología de la Soldadura Industrial
-		Maestría Interinstitucional en Ciencia y Tecnología (PICYT)
-		Doctorado Interinstitucional en Ciencia y Tecnología (PICYT)
+	CIATEC
+		Maestría en Ingeniería Ambiental
+		Maestría en Ingeniería Industrial y de Manufactura
+		Doctorado en Ingeniería Ambiental
+		Doctorado en Ingeniería Industrial y de Manufactura
 
 	CIQA
 		Especialidad en Química Aplicada
@@ -264,6 +264,12 @@ Coordinación de Materiales, manufactura avanzada y procesos industriales
 		Doctorado en Ciencia y Tecnología con especialidad en Ingeniería Ambiental
 		Doctorado en Electroquímica
 
+	CIMAV
+		Maestría en Ciencia de Materiales
+		Maestría en Ciencia y Tecnología Ambiental
+		Doctorado dual en Nanotecnología
+		Doctorado en Ciencia y Tecnología Ambiental
+
 	CIATEQ
 		Especialidad en Diseño y Desarrollo de Productos Plásticos
 		Maestría en Dirección y Gestión de Proyectos de Ingeniería
@@ -271,38 +277,49 @@ Coordinación de Materiales, manufactura avanzada y procesos industriales
 		Maestría en Sistemas Inteligentes Multimedia
 		Doctorado en Manufactura Avanzada
 
-	CIMAV
-		Maestría en Ciencia de Materiales
-		Maestría en Ciencia y Tecnología Ambiental
-		Doctorado dual en Nanotecnología
-		Doctorado en Ciencia y Tecnología Ambiental
-
 	CIDESI
 		Especialidad de Tecnólogo en Mecatrónica
 		Maestría Germano Mexicana en Mecatrónica
 		Maestría Interinstitucional en Ciencia y Tecnología (PICYT)
 		Doctorado Interinstitucional en Ciencia y Tecnología (PICYT)
 
-	CIATEC
-		Maestría en Ingeniería Ambiental
-		Maestría en Ingeniería Industrial y de Manufactura
-		Doctorado en Ingeniería Ambiental
-		Doctorado en Ingeniería Industrial y de Manufactura
-
-Coordinación de Medio ambiente, salud y alimentación
-	CIATEJ
-		Maestría en Ciencias de la Floricultura
-		Maestría en Ciencias en Innovación Biotecnológica
-		Maestría en Investigación Clínica
+	COMIMSA
+		Especialidad en Tecnología de la Soldadura Industrial
+		Maestría en Tecnología de la Soldadura Industrial
 		Maestría Interinstitucional en Ciencia y Tecnología (PICYT)
-		Doctorado en Ciencias en Innovación Biotecnológica
 		Doctorado Interinstitucional en Ciencia y Tecnología (PICYT)
 
-	CIAD
-		Maestría en Ciencias
-		Maestría en Desarrollo Regional
-		Doctorado en Ciencias
-		Doctorado en Desarrollo Regional
+Coordinación de Medio ambiente, salud y alimentación
+	IPICYT
+		Maestría en Ciencias Ambientales
+		Maestría en Ciencias en Biología Molecular
+		Maestría en Control y Sistemas Dinámicos
+		Maestría en Geociencias Aplicadas
+		Maestría en Nanociencias y Materiales
+		Maestría en Ciencias Ambientales
+		Maestría en Ciencias en Biología Molecular
+		Maestría en Control y Sistemas Dinámicos
+		Maestría en Geociencias Aplicadas
+		Maestría en Nanociencias y Materiales
+		Doctorado en Ciencias Ambientales
+		Doctorado en Ciencias en Biología Molecular
+		Doctorado en Control y Sistemas Dinámicos
+		Doctorado en Geociencias Aplicadas
+		Doctorado en Nanociencias y Materiales
+		Doctorado en Ciencias Ambientales
+		Doctorado en Ciencias en Biología Molecular
+		Doctorado en Control y Sistemas Dinámicos
+		Doctorado en Geociencias Aplicadas
+		Doctorado en Nanociencias y Materiales
+
+	CICY
+		Maestría en Ciencias (Ciencias biológicas)
+		Maestría en Ciencias del Agua
+		Maestría en Ciencias en Energía Renovable
+		Maestría en Materiales Poliméricos
+		Doctorado en Ciencias Biológicas
+		Doctorado en Ciencias en Energía Renovable
+		Doctorado en Materiales Poliméricos
 
 	CICESE
 		Maestría en Administración Integral del Ambiente (programa interinstitucional)
@@ -346,48 +363,31 @@ Coordinación de Medio ambiente, salud y alimentación
 		Doctorado en Ciencias en Oceanografía Física
 		Doctorado en Nanociencias
 
-	INECOL
-		Maestría en Ciencias
-		Doctorado en Ciencias
+	ECOSUR
+		Maestría en Ciencias en Recursos Naturales y Desarrollo Rural
+		Maestría en Ecología Internacional
+		Doctorado en Ciencias en Ecología y Desarrollo Sustentable
 
-	IPICYT
-		Maestría en Ciencias Ambientales
-		Maestría en Ciencias en Biología Molecular
-		Maestría en Control y Sistemas Dinámicos
-		Maestría en Geociencias Aplicadas
-		Maestría en Nanociencias y Materiales
-		Maestría en Ciencias Ambientales
-		Maestría en Ciencias en Biología Molecular
-		Maestría en Control y Sistemas Dinámicos
-		Maestría en Geociencias Aplicadas
-		Maestría en Nanociencias y Materiales
-		Doctorado en Ciencias Ambientales
-		Doctorado en Ciencias en Biología Molecular
-		Doctorado en Control y Sistemas Dinámicos
-		Doctorado en Geociencias Aplicadas
-		Doctorado en Nanociencias y Materiales
-		Doctorado en Ciencias Ambientales
-		Doctorado en Ciencias en Biología Molecular
-		Doctorado en Control y Sistemas Dinámicos
-		Doctorado en Geociencias Aplicadas
-		Doctorado en Nanociencias y Materiales
+	CIAD
+		Maestría en Ciencias
+		Maestría en Desarrollo Regional
+		Doctorado en Ciencias
+		Doctorado en Desarrollo Regional
 
 	CIBNOR
 		Maestría en Ciencias en el Uso, Manejo y Preservación de los Recursos Naturales
 		Doctorado en Ciencias en Bioeconomía Pesquera y Acuícola (programa interinstitucional)
 		Doctorado en Ciencias en el Uso, Manejo y Preservación de los Recursos Naturales
 
-	CICY
-		Maestría en Ciencias (Ciencias biológicas)
-		Maestría en Ciencias del Agua
-		Maestría en Ciencias en Energía Renovable
-		Maestría en Materiales Poliméricos
-		Doctorado en Ciencias Biológicas
-		Doctorado en Ciencias en Energía Renovable
-		Doctorado en Materiales Poliméricos
+	CIATEJ
+		Maestría en Ciencias de la Floricultura
+		Maestría en Ciencias en Innovación Biotecnológica
+		Maestría en Investigación Clínica
+		Maestría Interinstitucional en Ciencia y Tecnología (PICYT)
+		Doctorado en Ciencias en Innovación Biotecnológica
+		Doctorado Interinstitucional en Ciencia y Tecnología (PICYT)
 
-	ECOSUR
-		Maestría en Ciencias en Recursos Naturales y Desarrollo Rural
-		Maestría en Ecología Internacional
-		Doctorado en Ciencias en Ecología y Desarrollo Sustentable
+	INECOL
+		Maestría en Ciencias
+		Doctorado en Ciencias
 

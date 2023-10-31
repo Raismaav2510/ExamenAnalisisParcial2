@@ -2,6 +2,8 @@ import PyPDF2
 import re
 import os
 import glob
+import sys
+
 
 expresiones = [
     (r'^[ \t]+', ''),
@@ -11,15 +13,22 @@ expresiones = [
 
 def analisis_pdf():
     archivos_pdf = obtener_archivos_en_carpeta('PDF')
-
     print("\n")
     palabra_a_buscar = input("Ingrese la palabra que desea buscar en los archivos PDF: ")
 
-    for archivo_pdf in archivos_pdf:
-        print("\nBuscando en el archivo:", archivo_pdf)
-        buscar_y_mostrar_paginas_con_palabra_en_pdf(archivo_pdf, palabra_a_buscar)
+    with open('busqueda_PDF.txt', 'w') as archivo:
+        sys.stdout = archivo
 
-    print("Búsqueda completada")
+        for archivo_pdf in archivos_pdf:
+            print("\nBuscando en el archivo:", archivo_pdf)
+            buscar_y_mostrar_paginas_con_palabra_en_pdf(archivo_pdf, palabra_a_buscar)
+
+        print("Búsqueda completada")
+
+    sys.stdout = sys.__stdout__
+    with open('busqueda_PDF.txt', 'r') as archivo:
+        for linea in archivo:
+            print(linea, end='')
 
 
 # Función para buscar una palabra en el texto de una página

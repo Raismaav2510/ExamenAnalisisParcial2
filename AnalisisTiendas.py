@@ -1,6 +1,7 @@
 import re
 from urllib import request
 from bs4 import BeautifulSoup
+import sys
 
 urls = [
     ('https://es.anuto.app/', ['h5', 'div'], ['listing-title dont-break-out mb-1 p-2', 'label price ng-star-inserted']),
@@ -13,9 +14,18 @@ urls = [
 
 
 def analisis_tiendas():
-    for url, etiquetas, clases in urls:
-        resultados = obtener_contenido_web(url, etiquetas, clases)
-        limpiar_y_mostrar_resultados(resultados)
+    with open('oferta_tiendas.txt', 'w') as archivo:
+        sys.stdout = archivo
+
+        for url, etiquetas, clases in urls:
+            resultados = obtener_contenido_web(url, etiquetas, clases)
+            limpiar_y_mostrar_resultados(resultados)
+
+    sys.stdout = sys.__stdout__
+    with open('oferta_tiendas.txt', 'r') as archivo:
+        for linea in archivo:
+            print(linea, end='')
+
 
 def obtener_contenido_web(url, etiquetas, clases):
     hdr = {
